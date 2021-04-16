@@ -1,0 +1,33 @@
+body{
+background-image: url("background.jpg");
+}
+#main{
+    width: 100%;
+    box-shadow: 5px 5px 700px darkred;
+}
+.div_speed{
+    float: left;
+}
+.div_volume{
+    float: right;
+}
+#disk1{
+    height: 220px;
+    width: 220px;
+    border-radius: 100px;
+}
+#disk2{
+    height: 220px;
+    width: 220px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 30px;
+}
+#volume{
+    font-size: 30px;
+}
+#play{
+    margin-right: 20px;
+    margin-top: 5px;
+}
